@@ -1,0 +1,22 @@
+{
+  "name": "sample_repo",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpowalisz/sample_repo.git"
+  },
+  "author": "mpowalisz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpowalisz/sample_repo/issues"
+  },
+  "homepage": "https://github.com/mpowalisz/sample_repo#readme",
+  "dependencies": {
+    "eslint": "^5.5.0"
+  }
+}
